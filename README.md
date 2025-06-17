@@ -127,7 +127,7 @@ De esta forma se puede explorar si algunas tiendas tienen un rendimiento superio
 
 ## 3 Ejemplos de gráficos e insights obtenidos
 
-A continuación se ejemplifican gráficos e insights encontrados, como los que se pudieron obtener del análisis de ingreso total por tienda, ingreso por categoría Y productos más vendidos. 
+A continuación se ejemplifican gráficos e insights incluidos en el informe final, en el Notebook de Jupyter. Siendo ejemplo de esto los análisis relativos al análisis de ingreso total por tienda, ingreso por categoría Y productos más vendidos. 
 
 Ejemplo 1:
 
@@ -210,6 +210,7 @@ Ejemplo:
 * Posible saturación que afecta el servicio
 
 ## 4 Instrucciones para ejecutar el notebook
+
 
 ## 5 Acceso al proyecto
 
